@@ -1,0 +1,165 @@
+[
+    {
+      "movies": [
+        {
+          "id": 1,
+          "title": "Zindagi Na Milegi Dobara",
+          "genre": "Drama",
+          "director": "Zoya Akhtar",
+          "release_year": 2011,
+          "rating": 8.2,
+          "streaming_platforms": ["Netflix", "Amazon Prime"],
+          "reviews": {
+            "IMDb": 8.2,
+            "Rotten Tomatoes": "91%",
+            "Google Users": "94%"
+          }
+        },
+        {
+          "id": 2,
+          "title": "3 Idiots",
+          "genre": "Comedy",
+          "director": "Rajkumar Hirani",
+          "release_year": 2009,
+          "rating": 8.4,
+          "streaming_platforms": ["Netflix", "Hotstar"],
+          "reviews": {
+            "IMDb": 8.4,
+            "Rotten Tomatoes": "88%",
+            "Google Users": "95%"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Dilwale Dulhania Le Jayenge",
+          "genre": "Romance",
+          "director": "Aditya Chopra",
+          "release_year": 1995,
+          "rating": 8.0,
+          "streaming_platforms": ["Amazon Prime", "Hotstar"],
+          "reviews": {
+            "IMDb": 8.0,
+            "Rotten Tomatoes": "91%",
+            "Google Users": "96%"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Dangal",
+          "genre": "Drama",
+          "director": "Nitesh Tiwari",
+          "release_year": 2016,
+          "rating": 8.3,
+          "streaming_platforms": ["Netflix", "Disney+ Hotstar"],
+          "reviews": {
+            "IMDb": 8.3,
+            "Rotten Tomatoes": "94%",
+            "Google Users": "97%"
+          }
+        }
+      ]
+    },
+    {
+      "tv_shows": [
+        {
+          "id": 1,
+          "title": "Sacred Games",
+          "genre": "Crime",
+          "seasons": 2,
+          "rating": 8.5,
+          "streaming_platforms": ["Netflix"],
+          "reviews": {
+            "IMDb": 8.5,
+            "Rotten Tomatoes": "92%",
+            "Google Users": "89%"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Mirzapur",
+          "genre": "Action",
+          "seasons": 3,
+          "rating": 8.4,
+          "streaming_platforms": ["Amazon Prime"],
+          "reviews": {
+            "IMDb": 8.4,
+            "Rotten Tomatoes": "87%",
+            "Google Users": "90%"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Panchayat",
+          "genre": "Comedy",
+          "seasons": 2,
+          "rating": 8.9,
+          "streaming_platforms": ["Amazon Prime"],
+          "reviews": {
+            "IMDb": 8.9,
+            "Rotten Tomatoes": "95%",
+            "Google Users": "98%"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Friends",
+          "genre": "Sitcom",
+          "seasons": 10,
+          "rating": 8.9,
+          "streaming_platforms": ["Netflix", "HBO Max"],
+          "reviews": {
+            "IMDb": 8.9,
+            "Rotten Tomatoes": "93%",
+            "Google Users": "97%"
+          }
+        }
+      ]
+    },
+    {
+      "celebrities": [
+        {
+          "id": 1,
+          "name": "Shah Rukh Khan",
+          "profession": "Actor",
+          "movies": [3],
+          "tv_shows": []
+        },
+        {
+          "id": 2,
+          "name": "Aamir Khan",
+          "profession": "Actor",
+          "movies": [2, 4],
+          "tv_shows": []
+        },
+        {
+          "id": 3,
+          "name": "Hrithik Roshan",
+          "profession": "Actor",
+          "movies": [1],
+          "tv_shows": []
+        },
+        {
+          "id": 4,
+          "name": "Pankaj Tripathi",
+          "profession": "Actor",
+          "movies": [],
+          "tv_shows": [2]
+        },
+        {
+          "id": 5,
+          "name": "Jennifer Aniston",
+          "profession": "Actor",
+          "movies": [],
+          "tv_shows": [4]
+        },
+        {
+          "id": 6,
+          "name": "Matthew Perry",
+          "profession": "Actor",
+          "movies": [],
+          "tv_shows": [4]
+        }
+      ]
+    }
+  ]
+  

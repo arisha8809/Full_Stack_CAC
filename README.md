@@ -1,4 +1,3 @@
-```markdown
 # Movie, TV Show, and Celebrity Management API
 
 This API allows you to manage movies, TV shows, and celebrities. You can add, update, delete, and search for them. You can also manage reviews for movies and TV shows.
@@ -75,5 +74,5 @@ This API allows you to manage movies, TV shows, and celebrities. You can add, up
 
 - `entertainment.py` - Flask application file.
 - `data.json` - JSON file with movie, TV show, and celebrity data.
-```
+
 
